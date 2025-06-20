@@ -42,7 +42,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://aayushbharti.in)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)]()
 
   <!-- jest -->
 </p>
@@ -60,7 +60,7 @@ Other        28 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.79 %
 ```
 
-<!--
+
 ## 🚀 Languages and Tools
 
 ### 👉 Front-end
@@ -93,6 +93,8 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="Django" src="https://img.shields.io/badge/Django-%2343853D.svg?style=for-the-badge&logo=Django&logoColor=%2361DA55ff"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-%235f4d59.svg?style=for-the-badge&logo=Spring&logoColor=%2361DA55ff"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" />
 <img alt="GraphQL Server" src="https://img.shields.io/badge/graphql%20Server-%23563D7C.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
@@ -103,6 +105,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2300ADD8.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -113,6 +116,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Elastic" src ="https://img.shields.io/badge/Elastic-%23404d59.svg?style=for-the-badge&logo=elastic&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -182,7 +186,7 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBharti&" alt="AayushBharti" /></p>            -->
 <!-- <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
 
