@@ -22,17 +22,17 @@
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a> -->
 <h3>A Full Stack Engineer</h3>
 
-<!-- - 🔭 I'm currently working on [aayushbharti.in](https://aayushbharti.in)
+- 🔭 I'm currently working on [Advancing my Skills with Languages and tools]()
 
-- 🌱 I'm currently learning **AI**
+- 🌱 I'm currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://aayushbharti.in/work](https://aayushbharti.in/work)
+- 👨‍💻 I'm looking to collaborate on Fullt Stack & AI projects
 
-- 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog)
+<!-- - 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog) -->
 
-- 💬 Ask me about **next.js, typescript, framer motion, node.js**
+- 💬 Ask me about **JavaScript, React, Frameworks, Web Development, Python, node.js, Java, etc ...**
 
-- 📫 How to reach me **<hello@aayushbharti.in>** -->
+<!-- - 📫 How to reach me **<hello@aayushbharti.in>** -->
 
 <br/>
 
