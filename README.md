@@ -26,7 +26,7 @@
 
 - 🌱 I'm currently learning **Full Stack Development**
 
-- 👨‍💻 I'm looking to collaborate on Fullt Stack & AI projects
+- 👨‍💻 I'm looking to collaborate on Fullt Stack & Blockchain projects
 
 <!-- - 📝 I regularly write articles on [aayushbharti.in/blog](https://aayushbharti.in/blog) -->
 
