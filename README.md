@@ -20,7 +20,7 @@
 <a href="https://github.com/BabyDragon812" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="Aayush Bharti | GitHub" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a> -->
-<h3>A Full Stack Engineer</h3>
+<h3>A Full Stack & Blockchain Engineer</h3>
 
 - 🔭 I'm currently working on [Advancing my Skills with Languages and tools]()
 
