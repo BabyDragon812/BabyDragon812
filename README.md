@@ -94,14 +94,11 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <p>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Django" src="https://img.shields.io/badge/Django-%2343853D.svg?style=for-the-badge&logo=Django&logoColor=%2361DA55ff"/>
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-%235f4d59.svg?style=for-the-badge&logo=Spring&logoColor=%2361DA55ff"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="Fastify" src="https://img.shields.io/badge/fastify-%1212234E.svg?style=for-the-badge&logo=fastify&logoColor=white" />
 <img alt="GraphQL Server" src="https://img.shields.io/badge/graphql%20Server-%23563D7C.svg?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ### 👉 Programming Language
@@ -114,6 +111,9 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-%235C6BC0.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+
 </p>
 
 ### 👉 Database
